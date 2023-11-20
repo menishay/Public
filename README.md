@@ -1,3 +1,3 @@
 # Public
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/menishay/Public/HEAD
+Somberero hat function with Slider widget
+to be shared via google colab
